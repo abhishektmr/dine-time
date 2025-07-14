@@ -1,5 +1,5 @@
 # dine-time
-A react native expo app for table booking in restaurants.
+A react native expo application for table booking in restaurants.
 
 tech/libs used are as follows:
 	1. async-storage
